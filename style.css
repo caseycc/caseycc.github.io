@@ -1,5 +1,5 @@
 body{
-  background:lightgold;}
+  background:lavender;}
 
 p {
   color: red;
@@ -7,8 +7,9 @@ p {
   margin: 10%; }
 
 h1 {
-  color: red; }
- 
+  color: red;
+}
+
 h2 {
   margin-left: 10%;
   background-color:gold; }
